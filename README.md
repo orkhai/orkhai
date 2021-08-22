@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on all things web dev
-- 📫 How to reach me twitter: @the_zok
+- 📫 How to reach me twitter: @orkhai_
 
 <!---
 orkhai/orkhai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
