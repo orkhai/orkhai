@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Frontend Mentor challenges**
 
-- 🌱 I’m currently learning **React**
-
 - 👯 I’m looking to collaborate on **all things web dev related**
 
 - 💬 Ask me about **Front End Development**
