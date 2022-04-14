@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Orkhai</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <a href="https://twitter.com/orkhai_" target="blank"><img src="https://img.shields.io/twitter/follow/orkhai_?logo=twitter&style=for-the-badge" alt="orkhai_" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Mentor challenges**
+- 🔭 I’m currently working on **a couple of projects**
 
 - 👯 I’m looking to collaborate on **all things web dev related**
 
-- 💬 Ask me about **Front End Development**
+- 💬 Ask me about **FrontEnd Development**
 
 - 📫 How to reach me **Twitter: @orkhai_**
 
