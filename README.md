@@ -3,12 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/orkhai_" target="blank"><img src="https://img.shields.io/twitter/follow/orkhai_?logo=twitter&style=for-the-badge" alt="orkhai_" /></a> </p>
 
-- 🔭 I’m currently working on **a couple of projects and improving my skills**
-
-- 👯 I’m looking to collaborate on **all things software related**
-
-- 💬 Ask me about **Software Development**
-
 - 📫 How to reach me **Twitter: @orkhai_**
 
 <h3 align="left">Connect with me:</h3>
